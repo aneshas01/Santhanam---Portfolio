@@ -11,3 +11,8 @@ I would like to put my skillsets in design, data analytics and technology togeth
 
 # Portfolio
 Below is a portfolio of my design work during the Fall 2024 semester. 
+## Challenge Exercise: Introduce Yourself with a Data Visualization
+
+## Controlling Color
+![image](https://github.com/user-attachments/assets/a9b4bf9c-32c1-4397-95c4-1c3fadf93c32)
+
