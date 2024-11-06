@@ -22,3 +22,7 @@ Below is a portfolio of my design work during the Fall 2024 semester.
 
 ## Visualizing Government Debt Using Tableau
 ![Government Debt 2017 Visualization](https://github.com/user-attachments/assets/25d6cc4e-d706-443f-b274-c517f402df6d)
+<script type='module' src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'>
+</script>
+<tableau-viz id='tableau-viz' src='https://us-east-1.online.tableau.com/t/aneshas-1be4e45129/views/GeneralGovernmentDebttoGDPRatioData/GeneralGovernmentDebttoGDPRatio' width='1528' height='664' hide-tabs toolbar='bottom' >
+</tableau-viz>
