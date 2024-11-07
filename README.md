@@ -20,13 +20,16 @@ Below is a portfolio of my design work during the Fall 2024 semester.
 ![image](https://github.com/user-attachments/assets/d152bde2-06ce-4849-8ae0-3fcd509bc795)
 ![image](https://github.com/user-attachments/assets/2336d151-71a4-4ffd-9cb6-ea17ae38a931)
 
-## Visualizing Government Debt Using Tableau
+## Visualizing Government Debt Using Tableau - Visualization 1
 ![Government Debt 2017 Visualization](https://github.com/user-attachments/assets/25d6cc4e-d706-443f-b274-c517f402df6d)
-<script type='module' src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://us-east-1.online.tableau.com/t/aneshas-1be4e45129/views/GeneralGovernmentDebttoGDPRatioData/GeneralGovernmentDebttoGDPRatio' width='1536' height='655' hide-tabs toolbar='bottom' ></tableau-viz>
 
-## Visualizing Government Debt Using Tableau (PNGs)
+## Visualizing Government Debt Using Tableau - Visualization 2
+<script type='module' src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://us-east-1.online.tableau.com/t/aneshas-1be4e45129/views/GeneralGovernmentDebttoGDPRatioData/GeneralGovernmentDebttoGDPRatio' width='1536' height='655' hide-tabs toolbar='bottom' ></tableau-viz>
 ![Gvmt Debt Vis 1](https://github.com/user-attachments/assets/6906558c-cc5a-4a03-b345-2861dad25795)
 ![Gvmt Debt Vis 2](https://github.com/user-attachments/assets/a189bde9-714b-4548-9df0-53e7676b178f)
 
+## Visualizing Government Debt Using Tableau - Visualization 3
+<script type='module' src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://us-east-1.online.tableau.com/t/aneshas-1be4e45129/views/GeneralGovernmentDebttoGDPRatio-PersonalVisualization/GeneralGovernmentDebttoGDPRatio' width='1528' height='664' hide-tabs toolbar='bottom' ></tableau-viz>
+![Gvmt Debt Vis 3](https://github.com/user-attachments/assets/6baefb89-0c88-4521-8c91-3e847c9579e5)
 
 
