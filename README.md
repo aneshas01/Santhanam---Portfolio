@@ -20,6 +20,9 @@ Below is a portfolio of my design work during the Fall 2024 semester.
 ![image](https://github.com/user-attachments/assets/d152bde2-06ce-4849-8ae0-3fcd509bc795)
 ![image](https://github.com/user-attachments/assets/2336d151-71a4-4ffd-9cb6-ea17ae38a931)
 
+## Crafting for Clarity
+![IMG_7358](https://github.com/user-attachments/assets/2bb7f173-c5fe-4934-8de1-5519f6985915)
+
 ## Visualizing Government Debt Using Tableau - Visualization 1
 ![Government Debt 2017 Visualization](https://github.com/user-attachments/assets/25d6cc4e-d706-443f-b274-c517f402df6d)
 
