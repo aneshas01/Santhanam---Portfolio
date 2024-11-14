@@ -55,9 +55,9 @@ There are some improvements that can be made to the first and second visualizati
 
 In my third visualization, I made sure to create a story where the reader can look at the graph for a few seconds and get a good idea of what is happening. The most important thing I wanted to achieve with the graph was give clarity of focus by "reducing cognitive load and focusing on what matters," ("Six Principles for Designing Any Chart") which was the high/low ratio. The first thing I did was modify the title to reflect the content of the graph. Then, I wanted to tell the story of the countries with the highest and lowest government debt to GDP ratio, and wanted to make it clear that a high ratio was not good for the economy of the country. Therefore, I created a line graph with multiple lines to show the trajectory for each country, and colored all lines grey except Japan (highest ratio) which I colored red to indicate a bad ratio, and Estonia (lowest ratio) which I colored green to indicate a good ratio. This made the storytelling clear to show the trajectory over the years while clearly showing which countries have the best and worst ratios. 
 
-## Critique By Design with Tableau
+# Critique By Design with Tableau
 
-# Original Visualization
+## Original Visualization
 This visualization involves alcohol consumption for various countries. Each bar graph represents a year, as shown on the right. There is data for multiple years in this graph, which can be accessed by sliding the dot to the right or left to select a year. 
 ![image](https://github.com/user-attachments/assets/92ae3318-645d-4234-8f8f-0cc85370da7d)
 
@@ -65,7 +65,7 @@ Link to Visualization: https://www.oecd.org/en/data/indicators/alcohol-consumpti
 
 Link to Data: https://data-explorer.oecd.org/vis?lc=en&tm=DF_HEALTH_LVNG_AC&pg=0&snb=1&vw=tb&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_HEALTH_LVNG%40DF_HEALTH_LVNG_AC&df[ag]=OECD.ELS.HD&df[vs]=&pd=%2C&dq=.A.....&to[TIME_PERIOD]=false 
 
-# Visualization Critique
+## Visualization Critique
 ![image](https://github.com/user-attachments/assets/aef152d2-955e-45dc-8a16-04dd3a3cf580)
 ![image](https://github.com/user-attachments/assets/0775cd1f-feaf-459f-ba7f-cfe5394eab37)
 ![image](https://github.com/user-attachments/assets/10453c52-e7d7-45f0-a117-d48f28eeddc3)
@@ -85,10 +85,12 @@ I think the visualization is not reaching this audience. The reason is because d
 **Final thoughts: how successful what this method at evaluating the data visualization you selected? Are there measures you feel are missing or not being captured here?  What would you change?  Provide 1-2 recommendations (color, type of visualization, layout, etc.)**
 This method was very successful in evaluating the data I selected. As I completed this form, I recognized more details of the visual that I hadn't yet considered and it made me think outside the box in order to evaluate it. Some measures that would be helpful are ranking individual features of the graph, such as color, order, title, etc. so that these individual rankings can prompt us to think harder about how each of these elements could be improved on their own and all together. Additionally, I think that one element of the layout which could be improved would be to include the chart of the 4 rankings (similar to how the Google Sheet was formatted for the previous design assignment) so that we can see where our visualization places amongst the four "boxes." This would give us a more visual representation of what the visualization is doing well vs. needs to be fixed. 
 
+## Sketches
 
 
 
-# Final Visualization
+
+## Final Visualization
 <div class='tableauPlaceholder' id='viz1731559756943' style='position: relative'><noscript><a href='#'><img alt='Annual Sales of Alcohol from 2000-2024 In Different Countries ( Litres Per Person Age 15+) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Al&#47;AlcoholConsumptionWorkbook3&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='AlcoholConsumptionWorkbook3&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Al&#47;AlcoholConsumptionWorkbook3&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>
 var divElement = document.getElementById('viz1731559756943');
