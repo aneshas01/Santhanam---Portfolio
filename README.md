@@ -61,6 +61,8 @@ In my third visualization, I made sure to create a story where the reader can lo
 This visualization involves alcohol consumption for various countries. Each bar graph represents a year, as shown on the right. There is data for multiple years in this graph, which can be accessed by sliding the dot to the right or left to select a year. 
 ![image](https://github.com/user-attachments/assets/92ae3318-645d-4234-8f8f-0cc85370da7d)
 
+I selected this visualization because it was very interesting; not only did it have a large amount of data from different countries, but also different time periods. I immediately knew I wanted to compile information from 2000 to 2024 on alcohol usage and see what the differences were between the USA and other major countries. Additionally, alcohol usage has been the topic of research papers and projects I have done in the past, so this visualization also connects to my past work and gives me a chance to pursue a topic I am interested in while also learning more about the topic. The visualization layout also spoke to me as it was so simple. I wanted to challenge myself by choosing an already simple visualization and trying to make it even better, rather than choosing a cluttered visualization and simplifying it. This was definitely a challenge for me on how to convey so much information with such a large dataset in the way I thought would be most effective. 
+
 Link to Visualization: https://www.oecd.org/en/data/indicators/alcohol-consumption.html?oecdcontrol-b84ba0ecd2-var3=1977 
 
 Link to Data: https://data-explorer.oecd.org/vis?lc=en&tm=DF_HEALTH_LVNG_AC&pg=0&snb=1&vw=tb&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_HEALTH_LVNG%40DF_HEALTH_LVNG_AC&df[ag]=OECD.ELS.HD&df[vs]=&pd=%2C&dq=.A.....&to[TIME_PERIOD]=false 
@@ -86,6 +88,8 @@ I think the visualization is not reaching this audience. The reason is because d
 This method was very successful in evaluating the data I selected. As I completed this form, I recognized more details of the visual that I hadn't yet considered and it made me think outside the box in order to evaluate it. Some measures that would be helpful are ranking individual features of the graph, such as color, order, title, etc. so that these individual rankings can prompt us to think harder about how each of these elements could be improved on their own and all together. Additionally, I think that one element of the layout which could be improved would be to include the chart of the 4 rankings (similar to how the Google Sheet was formatted for the previous design assignment) so that we can see where our visualization places amongst the four "boxes." This would give us a more visual representation of what the visualization is doing well vs. needs to be fixed. 
 
 ## Sketches
+I sketched out two designs to potentially use: the first was similar to the bar chart used to represent each year, just with different coloring and labeling to tell a story when showing the countries with the most and least alcohol consumption. The second graph was to provide an alternative to how the data was formatted; instead of individual bar graphs, it would be multiple lines telling the story overtime of specific countries and their alcohol consumptions. I presented both of these as alternatives to a redesign and asked for input on the sketches. 
+![image](https://github.com/user-attachments/assets/8a777958-c381-41cf-9e94-21e57085d7ec)
 
 
 
