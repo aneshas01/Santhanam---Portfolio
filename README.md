@@ -57,6 +57,14 @@ In my third visualization, I made sure to create a story where the reader can lo
 
 # Critique By Design with Tableau
 
+Critique Process:
+1. Identify a publicly available visualization
+2. Critique the visualization
+3. Sketch new designs of the visualization
+4. Gather feedback via interviews and documentation about the sketches
+5. Translate this feedback and sketches into a new design of the visualization on Tableau
+6. Publish this Tableau visualization as the new and improved version of the original
+
 ## Original Visualization
 This visualization involves alcohol consumption for various countries. Each bar graph represents a year, as shown on the right. There is data for multiple years in this graph, which can be accessed by sliding the dot to the right or left to select a year. 
 ![image](https://github.com/user-attachments/assets/92ae3318-645d-4234-8f8f-0cc85370da7d)
@@ -88,13 +96,64 @@ I think the visualization is not reaching this audience. The reason is because d
 This method was very successful in evaluating the data I selected. As I completed this form, I recognized more details of the visual that I hadn't yet considered and it made me think outside the box in order to evaluate it. Some measures that would be helpful are ranking individual features of the graph, such as color, order, title, etc. so that these individual rankings can prompt us to think harder about how each of these elements could be improved on their own and all together. Additionally, I think that one element of the layout which could be improved would be to include the chart of the 4 rankings (similar to how the Google Sheet was formatted for the previous design assignment) so that we can see where our visualization places amongst the four "boxes." This would give us a more visual representation of what the visualization is doing well vs. needs to be fixed. 
 
 ## Sketches
-I sketched out two designs to potentially use: the first was similar to the bar chart used to represent each year, just with different coloring and labeling to tell a story when showing the countries with the most and least alcohol consumption. The second graph was to provide an alternative to how the data was formatted; instead of individual bar graphs, it would be multiple lines telling the story overtime of specific countries and their alcohol consumptions. I presented both of these as alternatives to a redesign and asked for input on the sketches. 
+Completing the critique made me realize that while I could keep some elements of the original graph, the largest component which was lacking was a clear story. I wanted to tell a story of which countries were highest in alcohol usage and how this could be bad from a healthcare standpoint. I sketched out two designs to potentially use: the first was similar to the bar chart used to represent each year, just with different coloring and labeling to tell a story when showing the countries with the most and least alcohol consumption. The second graph was to provide an alternative to how the data was formatted; instead of individual bar graphs, it would be multiple lines telling the story overtime of specific countries and their alcohol consumptions. I presented both of these as alternatives to a redesign and asked for input on the sketches. 
 ![image](https://github.com/user-attachments/assets/8a777958-c381-41cf-9e94-21e57085d7ec)
 
+## Interviews and Peer Feedback
+In my peer feedback on my sketches, I learned that the use of two graphs was a bit confusing for some, and most preferred the graph with the continuation of data over multiple years rather than the individual bar charts for one year at a time. I also learned from my peers in class that although the colors of red, green and grey worked to tell the story, the grey was a bit jarring and provided a dull look to my graph. It was recommended that I keep the color scheme but add a bit more color rather than coloring the other lines/bars grey. 
 
+I interviewed two participants on my sketches. Their profiles and questions are below. 
+**Participant A:** Full-Time Employee, 32
+**Participant B:** Full-Time Student, 19
 
+**What is the first thing that stands out to you in the visualization?**
+**A:** The green and red colors, the red seems like something negative and the green seems like something positive.
+**B:** The colors, assuming red and green is high and low, the year stood out in the graph and spikes and dips also stood out in the second graph.
+
+**Are there any parts of the visualization that seem unclear?**
+**A:** Be careful with the bar widths, because it may seem unclear of bars with different widths, but this may just be because it was sketched.
+**B:** In the first graph, it is hard to tell what the exact Y-values are in the bar graph, maybe it would help if there were gridlines or written measurements. Also, some acronyms for countries may be unknown by the common reader.
+
+**Do you think that the graph conveys its message quickly and effectively?**
+**A:** Yes, it is organized and draws attention to which countries are the highest and lowest in drinking. I think the line graph depicts this better than the bar graph and gives us the full picture. 
+**B:** Yes effectively, and fairly quickly because it took a little bit of time to read the country acronyms for the lines on the second graph.
+
+**Is there anything about the visualization that seems surprising or confusing?**
+**A:** The first bar graph seems like it is not needed, and I am more interested in the trends for each country in the second line graph. 
+**B:** The data points are not as accurate between graphs, likely because this needed to be quickly sketched.
+
+**Who do you think is the intended audience of this visualization?**
+**A:** Health workers.
+**B:** Healthcare boards and leadership at alcohol companies.
+
+**Do you think two graphs are necessary for the full picture or only one?**
+**A:** It would depend on the messages being conveyed; one is for one year while the other is across years. Both are relevant if someone wants the big picture rather than just for a year, but I personally prefer the line graph for a larger picture of trends over time. 
+**B:** The first graph may not be necessary if you want to view more than one year, and it is extremely helpful to view the trends of each country.
+
+**What is one thing you like about this visualization?**
+**A:** It is very to-the-point.
+**B:** The colors stand out and indicate positive and negative connotations behind alcohol use easily. 
+
+**What is one thing you dislike about this visualization:**
+**A:** There should be slightly more clean-ness in the final design such as the connection of the lines and distance between bars. 
+**B:** I wish the countries were spelled out because I don't know all the acronyms.
+
+**What is one thing you would change about this visualization?**
+**A:** The titles should be aligned better and the year should be included in the title rather than directly on the graph to reduce where the reader looks.
+**B:** I would make the title clearer rather than including text in multiple places and change the colors a bit to make it less gray. 
+
+## Findings from Interviews
+From the interviews, I realized that a common pattern was choosing the second line graph over the first bar graph alternative. This made it clear along with the peer feedback from class that the right visualization to go with was the line graph in order to properly encompass more data in a way that shows trends over time. I also learned from the interview feedback that a few things were unclear to the viewer, such as the acronym labelling for countries. Therefore it would be more logical to spell out the country names so that viewers are not confused. The title also needed changing, as I had used a title and somewhat of a subtitle and description in my graph, but this amount of text was confusing and led the interviewees to take more time to read it. I would be better off combining this information concisely in a clear title so that the graph can be read quickly. I will also play around with the changes of the color scheme to see if I can reduce the stark contrast in the red and green colors vs the grey colors in the chart. 
 
 ## Final Visualization
+
+For my final visualization, I made sure to do the following:
+1. I created a line graph, with multiple lines, each representing a country and the trends in how many litres of alcohol were consumed per year.
+2. I created a color scheme, going from red to green, with red indicating a higher amount of alcohol consumption and green indicating a lower amount of alcohol consumption. The line which was the darkest red was the highest consumption and the line which was the darkest green was the lowest consumption.
+4. I limited the amount of data used, as the data source has a large amount of data which is not necessarily all important for telling the story I wanted to create. Therefore, I chose the years 2000 to 2024 to show past to current trends, and I chose a few countries which have been at the top and bottom of the alcohol consumption range, and which are popular/known among people in the U.S., as this chart is in English and being presented to an audience of U.S. students.
+5. I changed the title to be more concise and include additional information which I planned originally to put as subtitles, such as the measurement being liters per person 15+. I labeled the X and Y axis clearly so that the viewer could know what the measurements were as well.
+6. I labeled each individual line on the graph to show which country it was; instead of using abbreviations, I made sure to spell out the whole country name so that the viewer knew which country belonged to which line. I placed the countries at the beginning of the lines so that viewers would not have to go all the way to the end of the line to find out which country it belonged to.
+   
 <div class='tableauPlaceholder' id='viz1731559756943' style='position: relative'><noscript><a href='#'><img alt='Annual Sales of Alcohol from 2000-2024 In Different Countries ( Litres Per Person Age 15+) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Al&#47;AlcoholConsumptionWorkbook3&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='AlcoholConsumptionWorkbook3&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Al&#47;AlcoholConsumptionWorkbook3&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>
 var divElement = document.getElementById('viz1731559756943');
