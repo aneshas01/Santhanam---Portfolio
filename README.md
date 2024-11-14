@@ -60,7 +60,9 @@ In my third visualization, I made sure to create a story where the reader can lo
 # Original Visualization
 This visualization involves alcohol consumption for various countries. Each bar graph represents a year, as shown on the right. There is data for multiple years in this graph, which can be accessed by sliding the dot to the right or left to select a year. 
 ![image](https://github.com/user-attachments/assets/92ae3318-645d-4234-8f8f-0cc85370da7d)
+
 Link to Visualization: https://www.oecd.org/en/data/indicators/alcohol-consumption.html?oecdcontrol-b84ba0ecd2-var3=1977 
+
 Link to Data: https://data-explorer.oecd.org/vis?lc=en&tm=DF_HEALTH_LVNG_AC&pg=0&snb=1&vw=tb&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_HEALTH_LVNG%40DF_HEALTH_LVNG_AC&df[ag]=OECD.ELS.HD&df[vs]=&pd=%2C&dq=.A.....&to[TIME_PERIOD]=false 
 
 # Visualization Critique
