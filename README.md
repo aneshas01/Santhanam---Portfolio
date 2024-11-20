@@ -163,3 +163,18 @@ var scriptElement = document.createElement('script');
 scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
 vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+# Final Design Project
+## Part 1: Final Project Overview
+**Outline**
+My final project will show what the best methods of dating are for adults in the United States. With online options, dating has become both easier and more complicated. There are several methods to find your partner: online through dating apps, in-person at work, school, or another location, and even reality dating shows. These methods have varying amounts of success, and my study will pinpoint which methods are the most effective for which populations. Data is segmented by the following factors: gender, sexual orientation, and location, which will be in the United States. 
+The story I will tell with the data is for each person in the audience (for example, if someone in the audience is heterosexual and a man), they will be able to know which method of dating, statistically, will be the most successful for them. Due to the variety in my data and different demographic factors I am considering, there should be a relatable aspect of the results for every single person in the audience I am presenting to. 
+I will also compare trends over time generally, such as whether online dating is becoming as successful as it is popular. I will provide this information to analyze trends and patterns in what works best for dating in early adulthood in the United States. 
+The way I anticipate the story unfolding is to first get the audience excited about potential dating options. Then, I will outline current trends and what is increasing/decreasing in success and popularity. After this, I will tell them what the worst options, statistically, are. This will create a dip in my "story chart" as it may bring down the mood and even surprise people. After this, I will tell them what the best options are and create a peak in my story as they may relate to the options provided. After this, I will level out at the peak by providing information on specific demographic information and which options are the most successful; this way my audience can see themselves visualized in the data and relate to the results. 
+**Sketches**
+
+**Data**
+The following are links to the datasets and articles I will be using: 
+https://www.pewresearch.org/internet/2023/02/02/online-dating-appendix-b-supplementary-chart/
+
+**Method/Medium**
