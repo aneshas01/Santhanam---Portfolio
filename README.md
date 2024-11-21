@@ -171,12 +171,14 @@ My final project will show what the best methods of dating are for adults in the
 The story I will tell with the data is for each person in the audience (for example, if someone in the audience is heterosexual and a man), they will be able to know which method of dating, statistically, will be the most successful for them. Due to the variety in my data and different demographic factors I am considering, there should be a relatable aspect of the results for every single person in the audience I am presenting to. 
 I will also compare trends over time generally, such as whether online dating is becoming as successful as it is popular. I will provide this information to analyze trends and patterns in what works best for dating in early adulthood in the United States. 
 The way I anticipate the story unfolding is to first get the audience excited about potential dating options. Then, I will outline current trends and what is increasing/decreasing in success and popularity. After this, I will tell them what the worst options, statistically, are. This will create a dip in my "story chart" as it may bring down the mood and even surprise people. After this, I will tell them what the best options are and create a peak in my story as they may relate to the options provided. After this, I will level out at the peak by providing information on specific demographic information and which options are the most successful; this way my audience can see themselves visualized in the data and relate to the results. 
+
 **Sketches**
 ![image](https://github.com/user-attachments/assets/f20b52ad-2bde-4322-9f88-3ab40eb44ef9)
 ![image](https://github.com/user-attachments/assets/8be25e2e-8a0c-41c2-bd49-27efc4da73f3)
 ![image](https://github.com/user-attachments/assets/6bc53045-36b6-4ea9-a87e-a599d750c6fe)
 ![image](https://github.com/user-attachments/assets/b15e3e2a-1e8a-4a96-aa6c-2a3909d80655)
 ![image](https://github.com/user-attachments/assets/48ff0023-3929-4da0-91ff-c89fd6905fd6)
+
 **Data**
 The following are links to the datasets and articles I will be using: 
 https://www.pewresearch.org/internet/2023/02/02/online-dating-appendix-b-supplementary-chart/
