@@ -182,5 +182,9 @@ The way I anticipate the story unfolding is to first get the audience excited ab
 **Data**
 The following are links to the datasets and articles I will be using: 
 https://www.pewresearch.org/internet/2023/02/02/online-dating-appendix-b-supplementary-chart/
+https://flourish.studio/blog/love-island-data-analysis/
+
+I will be using a mix of datasets, articles, and research studies in order to inform my data. The links above include data on the method of dating (reality TV show, in-person, online), the demographic information for daters in the United States ages 18-29 (and occasionally other age groups) which include age, race, gender, and sexual orientation, and trends across recent years for different methods and their popularities. I also include data from revenue streams made through dating apps to show which dating apps have the most popularity, users, and success rates. I will be using this data to inform my conclusions abotu which methods have the most success rates for which demographics. 
 
 **Method/Medium**
+I will be developing interacting graphs in Tableau and using Figma for other prototyping for my final site. To create the interactive site, I will use Shorthand and Flourish (either one of them or a mix of both) and I will integrate my Tableau graphs into the site. 
