@@ -180,11 +180,21 @@ The way I anticipate the story unfolding is to first get the audience excited ab
 ![image](https://github.com/user-attachments/assets/48ff0023-3929-4da0-91ff-c89fd6905fd6)
 
 **Data**
-The following are links to the datasets and articles I will be using: 
+The following are links to the datasets, research studies and articles I will be using:
+
+DATASETS:
+
+
+RESEARCH STUDIES:
 https://www.pewresearch.org/internet/2023/02/02/online-dating-appendix-b-supplementary-chart/
 https://flourish.studio/blog/love-island-data-analysis/
+https://www.statista.com/chart/20822/way-of-meeting-partner-heterosexual-us-couples/
+https://www.pewresearch.org/internet/2020/02/06/the-virtues-and-downsides-of-online-dating/#:~:text=While%2029%%20of%20online%20dating%20users%20say,relationships%2C%20that%20share%20is%2021%%20among%20non%2Dusers.&text=Some%2062%%20of%20online%20daters%20believe%20relationships,52%%20of%20those%20who%20never%20online%20dated.
 
-I will be using a mix of datasets, articles, and research studies in order to inform my data. The links above include data on the method of dating (reality TV show, in-person, online), the demographic information for daters in the United States ages 18-29 (and occasionally other age groups) which include age, race, gender, and sexual orientation, and trends across recent years for different methods and their popularities. I also include data from revenue streams made through dating apps to show which dating apps have the most popularity, users, and success rates. I will be using this data to inform my conclusions abotu which methods have the most success rates for which demographics. 
+
+I will be using a mix of datasets, articles, and research studies in order to inform my data. The links above include data on the method of dating (reality TV show, in-person, online), the demographic information for daters in the United States ages 18-29 (and occasionally other age groups) which include age, race, gender, and sexual orientation, and trends across recent years for different methods and their popularities. I also include data from revenue streams made through dating apps to show which dating apps have the most popularity, users, and success rates. I will be using this data to inform my conclusions about which methods have the most success rates for which demographics. 
+
+
 
 **Method/Medium**
 I will be developing interacting graphs in Tableau and using Figma for other prototyping for my final site. To create the interactive site, I will use Shorthand and Flourish (either one of them or a mix of both) and I will integrate my Tableau graphs into the site. 
