@@ -1,5 +1,4 @@
 # Santhanam---Portfolio
-[Test file](test)
 Portfolio of design work at Carnegie Mellon University, Fall 2024.
 
 # About Me
