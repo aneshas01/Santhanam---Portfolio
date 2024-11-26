@@ -1,5 +1,5 @@
 # Santhanam---Portfolio
-[HOME](https://aneshas01.github.io/Santhanam---Portfolio/) | [IN-CLASS EXERCISES](In-Class-Exercises) | [VISUALIZING GOVERNMENT DEBT](Visualizing-Government-Debt) | 
+[HOME](https://aneshas01.github.io/Santhanam---Portfolio/) | [IN-CLASS EXERCISES](In-Class-Exercises) | [WORKBOOK EXERCISES](Workbook-Exercises) | [VISUALIZING GOVERNMENT DEBT](Visualizing-Government-Debt) | 
 
 Portfolio of design work at Carnegie Mellon University, Fall 2024.
 
